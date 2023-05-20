@@ -6,8 +6,8 @@ import GetSingleWea from "./component/GetSingleWea";
 function App() {
 return(
         <div className='App'>
-          {/* <Getjs/> */}
-          <GetSingleWea/>
+          <Getjs/>
+          {/* <GetSingleWea/> */}
         </div>
   );
 }
